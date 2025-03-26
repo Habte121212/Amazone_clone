@@ -20,10 +20,6 @@ export const catagoryImage = [
     title: "Home & Kitchen",
     Name: "Home",
     imgLink: "https://images.pexels.com/photos/279719/pexels-photo-279719.jpeg",
-  },
-  {
-    title: "Sports & Fitness",
-    Name: "Sports",
-    imgLink: "https://images.pexels.com/photos/221247/pexels-photo-221247.jpeg",
-  },
+  }
+
 ];

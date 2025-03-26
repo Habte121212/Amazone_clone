@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './components/Header/Header'
 import CaurasualEffect from './components/Caurasual/CaurasualEffect'
 import Catagor from './components/Catagory/Catagor'
+import Product from './components/products/Product'
 
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <Header/>
       <CaurasualEffect/>
       <Catagor/>
+      <Product/>
    
     </div>
   )
